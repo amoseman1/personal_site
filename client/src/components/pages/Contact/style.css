@@ -1,0 +1,29 @@
+#jumbo {
+  background-color: #213121;
+
+  margin: 0;
+}
+
+#image {
+  border-radius: 15%;
+  position: relative;
+  padding: 30px;
+  margin-top: 40px;
+}
+
+#contact {
+  color: rgb(245, 238, 197);
+  padding: 10px;
+}
+
+#info {
+  color: rgb(245, 238, 197);
+  font-size: 30px;
+  font-family: "Amatic SC", cursive !important;
+}
+
+#header {
+  color: rgb(245, 238, 197);
+  padding: 20px;
+  font-family: "Amatic SC", cursive !important;
+}
