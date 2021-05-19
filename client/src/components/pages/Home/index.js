@@ -23,9 +23,9 @@ function Home() {
 
             <Row className="justify-content-lg-center">
                 {/* <Container> */}
-                <Col lg={3}>
+                <Col lg={2}>
                     <Image id="photo" src="./IMG_1911.jpg" alt="author"></Image></Col>
-                <Col lg={9}> <main id="about">Adventurer by heart, leader and problem solver by nature. I’ve worn many
+                <Col lg={10}> <main id="about">Adventurer by heart, leader and problem solver by nature. I’ve worn many
                 hats in my life which have given me the life lessons and experiences to mold
                 me into a very adaptable and hard-working individual. Spending most of my
                 working life in the hospitality industry, I know what is to be punctual,

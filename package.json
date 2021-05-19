@@ -1,0 +1,19 @@
+{
+  "name": "personal_site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "http://amoseman1.github.io/personal_site",
+  "repository": "https://github.com/amoseman1/personal_site.git",
+  "author": "Waterbug <amoseman18@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "react-bootstrap": "^1.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}

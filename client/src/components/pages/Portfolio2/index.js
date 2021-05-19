@@ -111,7 +111,7 @@ function Portfolio2() {
         <Card>
             <div className="row prow">
                 <div className="col-md-6">
-                    <img className="projectImg" src="./userDirectory.png" alt="taste the music" />
+                    <img className="projectImg" src="./userDirect.png" alt="taste the music" />
                 </div>
                 <div className="col-md-6 proDets flex-wrap" id="cardbody">
                     <h1 id="profIcon">
